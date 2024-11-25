@@ -1,2 +1,3 @@
 wurstmeister/zookeeper
 wurstmeister/kafka
+lyumikael/gomodd:v1.22.1

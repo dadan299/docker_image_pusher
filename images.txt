@@ -2,3 +2,4 @@ wurstmeister/zookeeper
 wurstmeister/kafka
 lyumikael/gomodd:v1.22.1
 jaegertracing/all-in-one
+prom/mysqld-exporter

@@ -5,3 +5,4 @@ jaegertracing/all-in-one
 prom/mysqld-exporter
 prom/prometheus:v2.28.1
 grafana/grafana:8.0.6
+twang2218/gitlab-ce-zh

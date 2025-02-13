@@ -13,5 +13,6 @@
 #docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1
 #nginx
 #evildecay/etcdkeeper
-kubernetesui/dashboard:v2.3.1
-kubernetesui/metrics-scraper:v1.0.6
+#kubernetesui/dashboard:v2.3.1
+#kubernetesui/metrics-scraper:v1.0.6
+golang:1.20-alpine

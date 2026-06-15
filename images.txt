@@ -21,4 +21,5 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
 #eclipse-temurin:8-jre
 #golang:1.25.8
-lonaihpc/gomodd:v1.25.8
+#lonaihpc/gomodd:v1.25.8
+golang:1.25.8-alpine

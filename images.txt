@@ -23,4 +23,6 @@
 #golang:1.25.8
 #lonaihpc/gomodd:v1.25.8
 #golang:1.25.8-alpine
-pgvector/pgvector:pg16
+#pgvector/pgvector:pg16
+node:20-alpine
+nginx:1.27-alpine

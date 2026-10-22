@@ -27,4 +27,5 @@
 #node:20-alpine
 #nginx:1.27-alpine
 #php:8.4-fpm
-php:8.4.27-fpm-bookworm
+#php:8.4.27-fpm-bookworm
+dadan299/huaren-php:8.4.27-fpm-20261022

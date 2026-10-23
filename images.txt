@@ -28,4 +28,5 @@
 #nginx:1.27-alpine
 #php:8.4-fpm
 #php:8.4.27-fpm-bookworm
-dadan299/huaren-php:8.4.27-fpm-20261022
+#dadan299/huaren-php:8.4.27-fpm-20261022
+dadan299/huaren-php:8.2.35-fpm-20261023
